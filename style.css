@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+
+
+.description{
+    margin: 30px 30px 30px 0px;
+}
+ul{
+    list-style-type: disc;
+}
+img{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    border-radius: 5%;
+}
+.first ol{
+    display: inline-block;
+    width: 30%;
+    text-align: left;    
+    color: whitesmoke;
+    position: relative;
+    bottom: 80px;
+    font-size: 15px;
+    
+}
+.second ol{
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+    color:whitesmoke;
+    position: relative;
+    left: 27%;
+    bottom: 80px;
+    font-size: 15px;
+    
+   
+}
+.second img{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    border-radius: 5%;
+    position: relative;
+    left: 27%;
+    
+}
+.third img{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    border-radius: 5%;
+
+}
+.third ol{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    color: whitesmoke;
+position: relative;
+bottom: 67px;
+
+}
+.fourth ol{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    color: whitesmoke;
+   position: relative;
+   left: 27%;
+   bottom: 55px;
+}
+.fourth img{
+    display: inline-block;
+    width: 40%;
+    border-radius:5%;
+    position: relative;
+    left: 27%;
+    }
+
+    .fifth img{
+        display: inline-block;
+        width: 40%;
+        border-radius: 5%;
+        }
+    .fifth ol{
+        display: inline-block;
+        width: 30%;
+        color: whitesmoke;
+        position: relative;
+        bottom: 55px;
+    }
+
+    .sixth ol{
+        display: inline-block;
+        width: 30%;
+        height: auto;
+color: whitesmoke;
+position: relative;
+left:28%;
+bottom: 80px;
+    }
+    .sixth img{
+        display: inline-block;
+        width: 40%;
+        height: auto;
+        border-radius: 5%;
+        position: relative;
+        left: 28%;
+           }
+
+   
